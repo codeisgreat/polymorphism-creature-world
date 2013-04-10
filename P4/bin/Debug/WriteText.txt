@@ -1,0 +1,5 @@
+Cycle Number 0: Median: 98 Mean: 104.081871345029 Min: 44 Max: 240
+Cycle Number 5: Median: 62 Mean: 64.1979166666667 Min: 0 Max: 240
+Cycle Number 10: Median: 62 Mean: 56.914406779661 Min: 0 Max: 240
+Cycle Number 15: Median: 62 Mean: 54.5352279455299 Min: 0 Max: 240
+Cycle Number 20: Median: 62 Mean: 53.3002267573696 Min: 0 Max: 240

@@ -1,0 +1,5 @@
+C:\Users\Kenneth\Documents\College\CPSC 370\P4\P4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenneth\Documents\College\CPSC 370\P4\P4\bin\Debug\P4.exe
+C:\Users\Kenneth\Documents\College\CPSC 370\P4\P4\bin\Debug\P4.pdb
+C:\Users\Kenneth\Documents\College\CPSC 370\P4\P4\obj\x86\Debug\P4.exe
+C:\Users\Kenneth\Documents\College\CPSC 370\P4\P4\obj\x86\Debug\P4.pdb
